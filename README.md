@@ -1,1 +1,1 @@
-# Learn-JavaScript
+# Im an aspiring student learning JavaScript.
